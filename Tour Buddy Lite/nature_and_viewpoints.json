@@ -1,0 +1,250 @@
+[
+  {
+    "title": "Sasihithlu Beach",
+    "sneakPeek": "The surfing capital of Karnataka.",
+    "details": "-Located north of Mangalore, where the river meets the sea (estuary).\n-Famous for hosting the Indian Open of Surfing.\n-Pristine white sands and clear water make it one of the most beautiful beaches.\n-Less commercialized, offering a raw and natural beach experience.",
+    "externalLink": "https://www.karnatakatourism.org/tour-item/sasihithlu-beach/",
+    "imageName": "sasihithlu_beach",
+    "categoryName": "Beaches"
+  },
+  {
+    "title": "Panambur Beach",
+    "sneakPeek": "The most popular beach for sunsets and water sports.",
+    "details": "-Known as one of the cleanest and safest beaches in India.\n-Famous for its annual International Kite Festival held in January.\n-Offers water sports like jet skiing, surfing, and boat rides.\n-A perfect spot for a family picnic with plenty of food stalls around.",
+    "externalLink": "https://www.panamburbeach.com/",
+    "imageName": "panambur_beach",
+    "categoryName": "Beaches"
+  },
+  {
+    "title": "Tannirbhavi Beach",
+    "sneakPeek": "A serene beach famous for its Tree Park.",
+    "details": "-Less crowded than Panambur, offering a peaceful sunset experience.\n-Features a 15-hectare 'Tree Park' with sculptures and medicinal plants.\n-Accessible via a scenic ferry ride from Sultan Battery.\n-Known for its blue waters and golden sands.",
+    "externalLink": "https://www.google.com/maps/place/Shree+Mahaganapathi+Temple,+Urwa+Store4",
+    "imageName": "tannirbhavi_beach",
+    "categoryName": "Beaches"
+  },
+  {
+    "title": "Surathkal Lighthouse Beach",
+    "sneakPeek": "Famous for its lighthouse on the rocks.",
+    "details": "-Located near NITK Surathkal, about 15km from the city.\n-Features a historic lighthouse built on a rocky hillock that you can climb for a view.\n-The beach has unique rock formations and golden sands.\n-A favorite hangout spot for students and photographers.",
+    "externalLink": "https://www.google.com/maps/place/Shree+Mahaganapathi+Temple,+Urwa+Store7",
+    "imageName": "surathkal_beach",
+    "categoryName": "Beaches"
+  },
+  {
+    "title": "Someshwar Beach",
+    "sneakPeek": "Known for the giant 'Rudra Shile' rocks.",
+    "details": "-Located in Ullal, famous for the large rock formations called 'Rudra Shile'.\n-The Someshwara Temple is situated right on the shore overlooking the sea.\n-Swimming is often restricted here due to strong currents and rocks.\n-Offers one of the most dramatic sunset views in Mangalore.",
+    "externalLink": "https://www.google.com/maps/place/Shree+Mahaganapathi+Temple,+Urwa+Store8",
+    "imageName": "someshwar_beach",
+    "categoryName": "Beaches"
+  },
+  {
+    "title": "Ullal Beach",
+    "sneakPeek": "Historic beach with golden sands and palms.",
+    "details": "-Located near the Summer Sands Beach Resort.\n-One of the oldest and most historic beaches in the region.\n-Offers a long coastline with casuarina groves providing shade.\n-Close to the famous Ullal Dargah and Rani Abbakka's fort ruins.",
+    "externalLink": "https://www.google.com/maps/place/Shree+Mahaganapathi+Temple,+Urwa+Store9",
+    "imageName": "ullal_beach",
+    "categoryName": "Beaches"
+  },
+  {
+    "title": "Hosabettu Beach",
+    "sneakPeek": "A clean, hidden gem with a long walkway.",
+    "details": "-A pristine and less crowded beach located near Surathkal.\n-Features a long, paved walkway perfect for evening jogs and walks.\n-Known for its cleanliness and peaceful atmosphere.\n-Great for families looking to avoid the crowds of Panambur.",
+    "externalLink": "https://www.google.com/maps/place/Shree+Mahaganapathi+Temple,+Urwa+Store00",
+    "imageName": "hosabettu_beach",
+    "categoryName": "Beaches"
+  },
+  {
+    "title": "Bengre Beach",
+    "sneakPeek": "A quiet stretch of sand near the estuary.",
+    "details": "-Located on the Tannirbhavi side of the peninsula.\n-Very secluded and quiet, ideal for those who love silence.\n-Close to the breakwater and the shipbuilding yard.\n-Offers a raw, untouched beach experience.",
+    "externalLink": "https://www.google.com/maps/place/Shree+Mahaganapathi+Temple,+Urwa+Store01",
+    "imageName": "bengre_beach",
+    "categoryName": "Beaches"
+  },
+  {
+    "title": "Pilikula Nisargadhama",
+    "sneakPeek": "A massive nature park with a zoo and lake.",
+    "details": "-A one-stop destination featuring a biological park (zoo), botanical garden, and science center.\n-Includes a large lake with boating facilities and a heritage village.\n-Home to the Pilikula 3D Planetarium, the first of its kind in India.\n-Perfect for a full-day trip with family and kids.",
+    "externalLink": "https://pilikula.karnataka.gov.in/",
+    "imageName": "pilikula_park",
+    "categoryName": "Parks"
+  },
+  {
+    "title": "Kadri Park",
+    "sneakPeek": "The largest garden in the city with a musical fountain.",
+    "details": "-A beautiful park located on Kadri Hills, perfect for morning walks.\n-Features a toy train and a musical fountain show in the evenings.\n-Hosts the famous annual 'Karavali Utsav' flower show.\n-Surrounded by lush greenery and located near the famous Kadri Temple.",
+    "externalLink": "https://www.google.com/maps/place/Shree+Mahaganapathi+Temple,+Urwa+Store5",
+    "imageName": "kadri_park",
+    "categoryName": "Parks"
+  },
+  {
+    "title": "Tagore Park",
+    "sneakPeek": "Panoramic views from Lighthouse Hill.",
+    "details": "-Located at the historic Light House Hill in the city center.\n-Home to a lighthouse built by Haider Ali in the 18th century.\n-Ideally situated for watching the sunset over the Arabian Sea.\n-A favorite hangout for students from the nearby colleges.",
+    "externalLink": "https://www.google.com/maps/place/Shree+Mahaganapathi+Temple,+Urwa+Store7",
+    "imageName": "lighthouse_hill",
+    "categoryName": "Parks"
+  },
+  {
+    "title": "Gandhi Park",
+    "sneakPeek": "A historic park located near Town Hall.",
+    "details": "-A well-maintained park situated in the heart of the city.\n-Features a statue of Mahatma Gandhi and beautiful landscaping.\n-A quiet green space amidst the bustling city markets.\n-Often used for cultural gatherings and peaceful evening walks.",
+    "externalLink": "https://www.google.com/maps/place/Shree+Mahaganapathi+Temple,+Urwa+Store02",
+    "imageName": "gandhi_park",
+    "categoryName": "Parks"
+  },
+  {
+    "title": "Saripalla View Point",
+    "sneakPeek": "A hidden hilltop with a panoramic view of the city.",
+    "details": "-A lesser-known trekking spot offering a stunning 360-degree view of Mangalore.\n-Located in the Kulshekar area, it is perfect for watching sunrises and sunsets.\n-The lush green hills make it a favorite spot for photographers and nature lovers.\n-Best visited early in the morning or late evening.",
+    "externalLink": "https://www.google.com/maps/place/Shree+Mahaganapathi+Temple,+Urwa+Store0",
+    "imageName": "saripalla_viewpoint",
+    "categoryName": "Nature Views"
+  },
+  {
+    "title": "Mangaluru Airport View Point",
+    "sneakPeek": "Watch airplanes land amidst a scenic valley.",
+    "details": "-Located in Kenjar, near the Bajpe International Airport.\n-Offers a thrilling view of the runway and flights taking off and landing.\n-The viewpoint is situated on a hill, providing a backdrop of lush green valleys.\n-A popular evening hangout spot for locals.",
+    "externalLink": "https://www.google.com/maps/place/Shree+Mahaganapathi+Temple,+Urwa+Store1",
+    "imageName": "airport_viewpoint",
+    "categoryName": "Nature Views"
+  },
+  {
+    "title": "Netravati View Point",
+    "sneakPeek": "Scenic views of the bridge and river.",
+    "details": "-Located near the Jeppinamogaru area along the Netravati River banks.\n-Famous for the view of trains passing over the massive railway bridge against the sunset.\n-A peaceful spot for a walk along the riverside promenade.\n-Best visited during the golden hour.",
+    "externalLink": "https://www.google.com/maps/place/Shree+Mahaganapathi+Temple,+Urwa+Store2",
+    "imageName": "netravati_viewpoint",
+    "categoryName": "Nature Views"
+  },
+  {
+    "title": "Adyar View Point",
+    "sneakPeek": "A scenic hilltop overlooking the Netravati River.",
+    "details": "-Located on the outskirts of the city near Adyar.\n-Offers a breathtaking top-angle view of the meandering Netravati River and coconut groves.\n-Features the famous Adyar Falls nearby (seasonal).\n-A quiet, non-commercialized spot perfect for solitude.",
+    "externalLink": "https://www.google.com/maps/place/Shree+Mahaganapathi+Temple,+Urwa+Store3",
+    "imageName": "adyar_viewpoint",
+    "categoryName": "Nature Views"
+  },
+  {
+    "title": "Dakke View Point",
+    "sneakPeek": "The bustling heart of Mangalore's fishing harbor.",
+    "details": "-Located in Bunder, this is the main fishing harbor of the city.\n-Offers a raw and vibrant view of hundreds of colorful fishing boats and trawlers.\n-You can watch the auctioning of fresh catch early in the morning.\n-Offers a unique view of the estuary where the river meets the sea.",
+    "externalLink": "https://www.google.com/maps/place/Shree+Mahaganapathi+Temple,+Urwa+Store4",
+    "imageName": "dakke_viewpoint",
+    "categoryName": "Nature Views"
+  },
+  {
+    "title": "Dambel",
+    "sneakPeek": "Kayaking and beautiful backwaters.",
+    "details": "-Located in Ashok Nagar, Dambel is known for its calm backwaters.\n-Famous for kayaking and boating activities.\n-You can take a local boat ride from here to reach Tannirbhavi Beach.\n-A serene spot to watch the sunset over the Gurupura River.",
+    "externalLink": "https://www.google.com/maps/place/Shree+Mahaganapathi+Temple,+Urwa+Store5",
+    "imageName": "dambel_viewpoint",
+    "categoryName": "Nature Views"
+  },
+  {
+    "title": "Sunset Point Bengre",
+    "sneakPeek": "Where the river meets the Arabian Sea.",
+    "details": "-Located at the tip of the Bengre peninsula.\n-This is the estuary point where the Gurupura River merges with the Arabian Sea.\n-Offers a stunning view of the breakwater rocks and the endless ocean.\n-A very quiet spot, perfect for fishing and sunset watching.",
+    "externalLink": "https://www.google.com/maps/place/Shree+Mahaganapathi+Temple,+Urwa+Store6",
+    "imageName": "bengre_sunset",
+    "categoryName": "Nature Views"
+  },
+  {
+    "title": "Clock Tower",
+    "sneakPeek": "A historic landmark in the heart of the city.",
+    "details": "-Located in Hampankatta, this towering structure is a symbol of old Mangalore.\n-Originally built in the colonial era, demolished, and then rebuilt to restore heritage.\n-Illuminated beautifully at night with changing LED lights.\n-A central meeting point and a great spot for street photography.",
+    "externalLink": "https://www.google.com/maps/place/Shree+Mahaganapathi+Temple,+Urwa+Store",
+    "imageName": "clock_tower",
+    "categoryName": "Landmarks"
+  },
+  {
+    "title": "New Mangalore Port",
+    "sneakPeek": "The gateway to Karnataka's maritime trade.",
+    "details": "-One of the major ports in India, located at Panambur.\n-Best viewed from Panambur Beach where you can see massive cargo ships docking.\n-Cruises from around the world dock here during the tourism season.\n-A vital economic hub handling coffee, cashew, and petroleum exports.",
+    "externalLink": "https://www.newmangaloreport.gov.in/",
+    "imageName": "mangalore_port",
+    "categoryName": "Landmarks"
+  },
+  {
+    "title": "Mangalore International Airport",
+    "sneakPeek": "A hilltop airport with scenic table-top runways.",
+    "details": "-Located in Kenjar, it is one of only two table-top airports in India.\n-The drive to the airport offers scenic views of winding roads and valleys.\n-Famous for its modern terminal and the stunning approach view during landing.\n-Connects Mangalore to the Middle East and major Indian cities.",
+    "externalLink": "https://www.aai.aero/en/airports/mangalore",
+    "imageName": "mangalore_airport",
+    "categoryName": "Landmarks"
+  },
+  {
+    "title": "Sultan Battery",
+    "sneakPeek": "Historic watchtower with a river view.",
+    "details": "-Built by Tipu Sultan in 1784 to prevent warships from entering the Gurupura River.\n-The watchtower looks like a miniature fortress and offers a stunning view of the backwaters.\n-It serves as the starting point for the ferry to Tannirbhavi Beach.\n-A great spot for history buffs and photographers.",
+    "externalLink": "https://en.wikipedia.org/wiki/Sultan_Battery_(Mangalore)",
+    "imageName": "sultan_battery",
+    "categoryName": "Landmarks"
+  },
+  {
+    "title": "Aloyseum (St. Aloysius Museum)",
+    "sneakPeek": "A treasure trove of antiques and rare artifacts.",
+    "details": "-Located within the St. Aloysius College campus.\n-Famous for its collection of ancient cars, swords, and the first generator of Mangalore.\n-Houses rare coins, tribal artifacts, and European paintings.\n-A must-visit for history buffs interested in the colonial past of the region.",
+    "externalLink": "https://www.aloyseum.in/",
+    "imageName": "aloyseum_museum",
+    "categoryName": "Landmarks"
+  },
+  {
+    "title": "Bejai Museum",
+    "sneakPeek": "The only government museum in Mangalore.",
+    "details": "-Resembles a ship from the outside, located in the heart of Bejai.\n-Houses a rich collection of ancient idols, paintings, and historical inscriptions.\n-Surrounded by a quiet garden, making it a peaceful educational trip.",
+    "externalLink": "http://googleusercontent.com/maps.google.com/museum",
+    "imageName": "bejai_museum",
+    "categoryName": "Landmarks"
+  },
+  {
+    "title": "Mangalore Central Railway Station",
+    "sneakPeek": "Historic railway terminus with Kerala-style architecture.",
+    "details": "-One of the oldest railway stations in the region, connecting Mangalore to Kerala and Chennai.\n-Famous for its unique red-tiled sloping roof architecture.\n-The entrance features a beautiful garden and a heritage steam engine display.",
+    "externalLink": "https://en.wikipedia.org/wiki/Mangaluru_Central_railway_station",
+    "imageName": "mangalore_central_station",
+    "categoryName": "Landmarks"
+  },
+  {
+    "title": "Town Hall",
+    "sneakPeek": "The cultural epicenter of Mangalore.",
+    "details": "-The premier venue for all major cultural, Yakshagana, and theatre performances in the city.\n-Located centrally near the Service Bus Stand.\n-Renovated recently with modern acoustics and seating.",
+    "externalLink": "http://googleusercontent.com/maps.google.com/townhall",
+    "imageName": "mangalore_town_hall",
+    "categoryName": "Landmarks"
+  },
+  {
+    "title": "TMA Pai Convention Centre",
+    "sneakPeek": "A world-class venue for grand events.",
+    "details": "-Located on MG Road, this is one of the largest convention centers in the city.\n-Named after the visionary Dr. T.M.A. Pai.\n-Hosts grand weddings, international conferences, and major exhibitions.\n-Known for its massive auditorium and modern architecture.",
+    "externalLink": "https://manipal.edu/",
+    "imageName": "tma_pai_hall",
+    "categoryName": "Landmarks"
+  },
+  {
+    "title": "PVS Building",
+    "sneakPeek": "A legendary commercial landmark and circle.",
+    "details": "-Standing at the busy PVS Circle, this building is a key navigational landmark in Mangalore.\n-Houses the famous 'PVS Kalakunja', an art gallery and exhibition hall.\n-Known historically for the PVS Beedi industry headquarters.\n-A central hub connecting MG Road, Kodialbail, and Bunts Hostel.",
+    "externalLink": "http://googleusercontent.com/maps.google.com/pvs",
+    "imageName": "pvs_building",
+    "categoryName": "Landmarks"
+  },
+  {
+    "title": "University College",
+    "sneakPeek": "Heritage Indo-Saracenic architecture.",
+    "details": "-Located in Hampankatta, this college building is a heritage structure over 150 years old.\n-Features the stunning 'Ravindra Kalabhavana', a heritage hall with stone arches.\n-Originally the Government Arts College, it has a rich academic history.\n-A beautiful example of laterite stone architecture.",
+    "externalLink": "https://ucmangalore.in/",
+    "imageName": "university_college",
+    "categoryName": "Landmarks"
+  },
+  {
+    "title": "DC Office",
+    "sneakPeek": "The administrative seat with colonial charm.",
+    "details": "-The Deputy Commissioner's office is a majestic heritage building near State Bank.\n-Built during the British era, it overlooks the old port area.\n-Features classic red-brick architecture and expansive corridors.\n-The center of administration for the Dakshina Kannada district.",
+    "externalLink": "https://dk.nic.in/",
+    "imageName": "dc_office",
+    "categoryName": "Landmarks"
+  }
+]
