@@ -2,15 +2,15 @@
   {
     "title": "Hotel Sai Palace",
     "sneakPeek": "Famous for its vegetarian fine dining.",
-    "details": "-Located on K.S. Rao Road, a central landmark in Mangalore.\n-Known for its three restaurants, including a pure vegetarian section that serves excellent North and South Indian Thalis.\n-A popular choice for families due to its consistent taste and hygiene.\n-Offers comfortable lodging and is close to major shopping areas.",
+    "details": "-Located centrally on K.S. Rao Road.\n-Known for three premium restaurants.\n-Serves excellent North & South Indian Thalis.\n-A top choice for families and hygiene.\n-Close to major city shopping hubs.",
     "externalLink": "https://hotelsaipalace.com/",
     "imageName": "sai_palace",
     "categoryName": "Food & Dining"
   },
   {
     "title": "The Ocean Pearl",
-    "sneakPeek": "Luxury dining famous for Sagar Ratna & Coral.",
-    "details": "-One of the most premium hotels in Mangalore located in Kodialbail.\n-Home to 'Sagar Ratna', which is legendary for its vegetarian food and thalis.\n-Also features 'Coral', a multi-cuisine restaurant known for its seafood and buffets.\n-A top spot for business meetings and family celebrations.",
+    "sneakPeek": "Luxury dining and premium buffets.",
+    "details": "-Home to the legendary 'Sagar Ratna'.\n-Famous for authentic vegetarian Thalis.\n-Features 'Coral' for seafood and buffets.\n-Ideal for business and family gatherings.\n-Located in the heart of Kodialbail.",
     "externalLink": "https://www.theoceanpearl.in/",
     "imageName": "ocean_pearl",
     "categoryName": "Food & Dining"
@@ -43,7 +43,7 @@
     "title": "Giri Manja's",
     "sneakPeek": "Iconic old-house style seafood joint.",
     "details": "-Located near Car Street in an old heritage house.\n-Famous for its home-style Fish Thali and the spicy Anjal Tawa Fry.\n-The atmosphere is rustic and nostalgic, feeling like a meal at a grandmother's home.\n-A must-visit for anyone wanting the true taste of Mangalorean seafood.",
-    "externalLink": "http://googleusercontent.com/maps.google.com/4",
+    "externalLink": "https://www.google.com/maps/place/Shree+Mahaganapathi+Temple,+Urwa+Store8",
     "imageName": "giri_manjas",
     "categoryName": "Food & Dining"
   },
@@ -155,7 +155,7 @@
     "title": "Pizza Valley",
     "sneakPeek": "Student favorite for wood-fired style pizza.",
     "details": "-A hidden gem in Bendoor, beloved by college students for its prices and taste.\n-Known for its wood-fired style pizzas with generous toppings.\n-Surprisingly famous for its Sushi menu, which is rare in Mangalore.",
-    "externalLink": "http://googleusercontent.com/maps.google.com/3",
+    "externalLink": "https://www.google.com/maps/place/Shree+Mahaganapathi+Temple,+Urwa+Store7",
     "imageName": "pizza_valley",
     "categoryName": "Food & Dining"
   },
@@ -219,7 +219,7 @@
     "title": "Empire Mall",
     "sneakPeek": "A central shopping complex with a popular food court.",
     "details": "-Located centrally on MG Road, one of the busiest streets in Mangalore.\n-Known for housing the popular 'Sizzler Ranch' and other dining spots.\n-A compact mall that is easy to navigate for quick shopping trips.\n-Hosts various local brand outlets and electronics stores.",
-    "externalLink": "http://googleusercontent.com/maps.google.com/2",
+    "externalLink": "https://www.google.com/maps/place/Shree+Mahaganapathi+Temple,+Urwa+Store4",
     "imageName": "empire_mall",
     "categoryName": "Malls"
   },
@@ -235,7 +235,7 @@
     "title": "Saibeen Complex",
     "sneakPeek": "A historic shopping favorite in Lalbagh.",
     "details": "-One of Mangalore's earliest shopping complexes, located in Lalbagh.\n-A budget-friendly hub for mobile accessories, repairs, and fashion.\n-Houses various independent stores, salons, and the popular 'Mobile World'.\n-Known as a 'one-stop' destination for varied shopping needs in the city center.",
-    "externalLink": "http://googleusercontent.com/maps.google.com/5",
+    "externalLink": "https://www.google.com/maps/place/Shree+Mahaganapathi+Temple,+Urwa+Store9",
     "imageName": "saibeen_complex",
     "categoryName": "Malls"
   },
@@ -254,6 +254,5 @@
     "externalLink": "https://inlandbuilders.net/",
     "imageName": "inland_ornate",
     "categoryName": "Malls"
-  },
-
+  }
 ]
