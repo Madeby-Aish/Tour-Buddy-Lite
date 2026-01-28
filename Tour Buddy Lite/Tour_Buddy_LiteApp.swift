@@ -1,7 +1,7 @@
 import SwiftUI
 
 // 1. GLOBAL SETTINGS CLASS (Defined ONLY here)
-class AppSettings: ObservableObject {
+class AppSettings: ObservableObject { //font scaling
     @AppStorage("fontSizeMultiplier") var fontSizeMultiplier: Double = 1.0
     
     func increaseFont() { if fontSizeMultiplier < 2.0 { fontSizeMultiplier += 0.1 } }
@@ -10,7 +10,7 @@ class AppSettings: ObservableObject {
 
 @main
 struct TourBuddyLiteApp: App {
-    @StateObject private var settings = AppSettings()
+    @StateObject private var settings = AppSettings() //Manages global state via  @app settings
     
     var body: some Scene {
         WindowGroup {
