@@ -75,12 +75,20 @@ Experience the app directly in your browser without installing anything:
 This app was developed as part of the **AICTE Activity Point Program**. It aims to leverage modern mobile technology to promote local tourism and cultural awareness in the Dakshina Kannada region.
 
 ---
+### 📺 Project Demonstration
 
-### 📸 UI Overview
+[![iOS Demo](https://img.shields.io/badge/Demo-iOS_Simulation-blue?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/user-attachments/assets/a6d6888e-92d8-4bde-8124-da972ae92520)
 
-[Video demonstration will be added shortly here]
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/a6d6888e-92d8-4bde-8124-da972ae92520" width="350" muted autoplay loop>
+  </video>
+</p>
+---
+> **Note**: This app requires images
 
-> **Note**: This app requires images to be placed in the Assets catalog with names matching the `imageName` keys in the JSON files (e.g., `sai_palace`, `kadri_temple`).
+https://github.com/user-attachments/assets/a6d6888e-92d8-4bde-8124-da972ae92520
+
+ to be placed in the Assets catalog with names matching the `imageName` keys in the JSON files (e.g., `sai_palace`, `kadri_temple`).
 > 
 > **Running the Project**: To run this project, open **`TourBuddyLite.xcodeproj`** in **Xcode** (Version 15 or later) and run the simulator for either **iOS** or **macOS**.
 ---
