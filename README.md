@@ -64,7 +64,7 @@ Experience the app directly in your browser without installing anything:
 >
 >2. Traditional iOS distribution requires an active **Apple Developer Program membership** and specific hardware.
 > 
->3. By utilizing **Appetize.io**, we bypass these restrictions to offer:
+>3. By utilizing **Appetize.io**, i bypassed these restrictions to offer:
 >* **Cross-Platform Access:** Runs natively on Windows, Android, and Linux browsers.
 >* **Zero Friction:** No Xcode, Apple ID, or provisioning profiles required.
 >* **Instant Validation:** Evaluators can verify UI/UX performance immediately.
