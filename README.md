@@ -8,8 +8,12 @@
 The interface draws direct inspiration from the **Apple Music** aesthetic—utilizing a clean sidebar navigation, high-quality card grids, and a focus on immersive imagery.
 
 ---
+### 📱Get your hands on the app now!!
+Experience the app directly in your browser without installing anything:
 
-![Made in Xcode](https://img.shields.io/badge/Made%20in-Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
+[![Run on Appetize.io](https://img.shields.io/badge/Run%20Live-Appetize.io-black?style=for-the-badge&logo=apple)](https://appetize.io/app/b_7dt7hkhrc46lzoagssmxhtrqv4) 
+
+> ⚠️ This simulation runs over the internet. You may notice slight network lag, but the app itself runs natively at 60fps.
 
 ---
 ### ✨ Features
@@ -39,7 +43,7 @@ Efficiency is key. Tour Buddy Lite supports native keyboard navigation for a sea
   
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-
+![Made in Xcode](https://img.shields.io/badge/Made%20in-Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
 ----
 
 ### 🏗️ Architecture Highlight
@@ -49,13 +53,7 @@ The app utilizes a clean, modular structure:
 * **`AppSettings.swift`**: Manages global state, including persistent font scaling via `@AppStorage`.
 * **JSON Modules**: Separate data files (`leisure_places.json`, `religious_places.json`, etc.) for easy content management.
 ---
-### 📱Get your hands on the app now!!
-Experience the app directly in your browser without installing anything:
 
-[![Run on Appetize.io](https://img.shields.io/badge/Run%20Live-Appetize.io-black?style=for-the-badge&logo=apple)](https://appetize.io/app/b_7dt7hkhrc46lzoagssmxhtrqv4)
-
-> ⚠️ This simulation runs over the internet. You may notice slight network lag, but the app itself runs natively at 60fps.
----
   ☁️ Deployment Strategy
 > [!NOTE]
 > **Why is there no App Store link?**
