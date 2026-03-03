@@ -10,7 +10,7 @@ struct ContentView: View {
                     loadPlaces(from: "nature_and_viewpoints")
 
     var body: some View {
-        NavigationSplitView {
+        NavigationSplitView { // Navigation engine 
             List(sampleCategories, selection: $selectedCategory) { category in
                 NavigationLink(value: category) {
                     Label(category.name, systemImage: iconForCategory(category.name))
@@ -41,7 +41,7 @@ struct ContentView: View {
         }
     }
     
-    func iconForCategory(_ name: String) -> String {
+    func iconForCategory(_ name: String) -> String { //For side bar
         switch name {
         case "Temples": return "building.columns"
         case "Churches": return "cross"
@@ -57,7 +57,7 @@ struct ContentView: View {
     }
 }
 
-struct AlbumGridView: View {
+struct AlbumGridView: View { // The aple music style appearence
     let category: Category
     let places: [Place]
     let searchText: String

@@ -15,7 +15,7 @@ struct Category: Identifiable, Hashable {
     let name: String
 }
 
-let sampleCategories: [Category] = [
+let sampleCategories: [Category] = [ //Sidebar guides names
     Category(name: "All Guides"),
     Category(name: "Temples"),
     Category(name: "Food & Dining"),
@@ -27,7 +27,7 @@ let sampleCategories: [Category] = [
     Category(name: "Nature Views"),
     Category(name: "Landmarks")
 ]
-
+//Loading contents from Json file
 func loadPlaces(from fileName: String) -> [Place] {
     guard let url = Bundle.main.url(forResource: fileName, withExtension: "json") else {
         print("Error: Could not find \(fileName).json in the bundle.")
