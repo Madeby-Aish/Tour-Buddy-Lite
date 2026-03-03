@@ -10,11 +10,11 @@ struct DetailView: View {
         ScrollView {
             VStack(alignment: .leading, spacing: 20) {
                 // 1. The Image (Responsive)
+                // 1. The Image (Responsive)
                 Image(place.imageName)
                     .resizable()
-                    .aspectRatio(contentMode: .fill)
-                    .frame(height: 300) // Fixed height for consistency
-                    .clipped()
+                    .scaledToFit() // This forces the entire image to stay visible
+                    .frame(maxHeight: 400) // Uses maxHeight instead of a rigid height so it adapts better
                     .cornerRadius(12)
                     .shadow(color: Color.black.opacity(0.15), radius: 10, x: 0, y: 5)
                 
@@ -63,6 +63,9 @@ struct DetailView: View {
             .padding(20) // This single padding handles ALL edges correctly
         }
         .navigationTitle(place.title)
+        .navigationTitle(place.title)
+        #if os(iOS)
         .navigationBarTitleDisplayMode(.inline)
+        #endif
     }
 }
